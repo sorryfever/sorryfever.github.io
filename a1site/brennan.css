@@ -1,0 +1,120 @@
+body {
+    background-color: #011830;
+}
+
+h1 {
+    text-align: center;
+    color: #02defc;
+    font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 5em;
+
+    margin-bottom: 0;
+}
+
+#box {
+    background-color: aliceblue;
+    color: #011830;
+    width: 50%;
+    max-width: 50%;
+    border-radius: .5em;
+    padding: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    outline: .5em solid #0091f8;
+    text-align: center;
+    /*font*/
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 1em;
+}
+
+.clps {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2em;
+    color: #02defc;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: .9em;
+}
+
+a:link {
+    color: #02defc;
+}
+
+a:visited {
+    color: #0091f8;
+}
+
+a:hover {
+    color: aliceblue;
+}
+
+.seasonstable {
+    border-collapse: collapse;
+    box-shadow: 0 0 20px;
+    margin: auto;
+    padding-top: 1em;
+    /*font*/
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1em;
+}
+
+.seasonstable thead {
+    background-color: #0091f8;
+    color: #011830;
+    text-align: center;
+    
+}
+
+.seasonstable td{
+    padding: 8px 23px;
+}
+
+.seasonstable tr{
+    border-bottom: 1px solid black;
+}
+
+.seasonstable tbody tr:nth-of-type(even){
+    background-color: #c7e8ff;
+}
+
+.seasonstable tbody tr:nth-of-type(odd){
+    background-color: aliceblue;
+}
+
+
+#brimage{
+    display:block;
+    margin: auto;
+    height: 17em;
+    padding: 2em;
+}
+
+
+
+#bold {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2em;
+    color: #0091f8;
+}
+
+
+.list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #0091f8;
+}

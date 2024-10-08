@@ -1,0 +1,35 @@
+body{ background-color: steelblue; }
+
+h1{
+	text-align: center;
+	color: #abfeff;
+}
+h2{
+	background-color: navy;
+	color: floralwhite;
+	padding: 10px;
+	margin: auto;
+	border: 5px solid #abfeff;
+	clear: both;
+}
+
+
+#img{
+	float: right;
+
+}
+
+/*#characters{
+	float: left;
+}*/
+
+.campaign{
+	border: 2px solid aliceblue;
+	width: 40%;
+	padding: 2%;
+	margin: auto;
+}
+
+.hold{
+	padding: 40px;
+}

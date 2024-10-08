@@ -1,0 +1,44 @@
+h1{
+	color: #1c3815;
+	background: powderblue;
+	padding: 10px;
+	margin: auto;
+	border: 5px solid green;
+	width: 40%;
+	font-family: "Jacquarda Bastarda 9", serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 47px;
+
+}
+
+h2{float: right;}
+body{background: #abc3f7;
+}
+
+#p1{
+	color: navy;
+	width: 80%;
+	text-align: center;
+	padding-top: 100px;
+
+}
+
+.highlighted{
+	color:ghostwhite;
+	float: right;
+}
+
+#MDM{
+	background: seagreen;
+	
+}
+
+#lefty{
+	float: left;
+}
+
+img{max-width: 30%;
+	float: left;
+	padding-left: 40px;
+}
